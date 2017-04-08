@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 """
 Ler dois valores e imprimir uma das três mensagens a seguir:
     * ‘Números iguais’, caso os números sejam iguais
